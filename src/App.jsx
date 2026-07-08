@@ -75,7 +75,7 @@ export default function App() {
   return (
     <div className="app-container">
       <div className="card">
-        <h1>📝 Mi Proyecto CRUD</h1>
+        <h1>🌸 Mi CRUD 🌸</h1>
         
         {/* Buscador en Tiempo Real */}
         <div className="buscador-container">
